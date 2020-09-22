@@ -1,0 +1,13 @@
+C:\LN\Studenst\bin\Debug\netcoreapp3.1\Studenst.exe
+C:\LN\Studenst\bin\Debug\netcoreapp3.1\Studenst.deps.json
+C:\LN\Studenst\bin\Debug\netcoreapp3.1\Studenst.runtimeconfig.json
+C:\LN\Studenst\bin\Debug\netcoreapp3.1\Studenst.runtimeconfig.dev.json
+C:\LN\Studenst\bin\Debug\netcoreapp3.1\Studenst.dll
+C:\LN\Studenst\bin\Debug\netcoreapp3.1\Studenst.pdb
+C:\LN\Studenst\obj\Debug\netcoreapp3.1\Studenst.csprojAssemblyReference.cache
+C:\LN\Studenst\obj\Debug\netcoreapp3.1\Studenst.AssemblyInfoInputs.cache
+C:\LN\Studenst\obj\Debug\netcoreapp3.1\Studenst.AssemblyInfo.cs
+C:\LN\Studenst\obj\Debug\netcoreapp3.1\Studenst.csproj.CoreCompileInputs.cache
+C:\LN\Studenst\obj\Debug\netcoreapp3.1\Studenst.dll
+C:\LN\Studenst\obj\Debug\netcoreapp3.1\Studenst.pdb
+C:\LN\Studenst\obj\Debug\netcoreapp3.1\Studenst.genruntimeconfig.cache
